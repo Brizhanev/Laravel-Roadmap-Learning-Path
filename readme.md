@@ -19,7 +19,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | ----- | ----- | ----- |
 | **Routing and Controllers: Basics** | :clapper: [Laravel 8 Routing: Important Change You Need to Know](https://www.youtube.com/watch?v=MfE1tnMG6fE) | + |
 | Callback Functions and Route::view() |:book: [Basic Routing](https://laravel.com/docs/8.x/routing#basic-routing) <br>:book: [View Routes](https://laravel.com/docs/8.x/routing#view-routes) <br>| + |
-| Routing to a Single Controller Method |:book: [Basic Controllers with Routes](https://laravel.com/docs/8.x/controllers#basic-controllers) <br>|
+| Routing to a Single Controller Method |:book: [Basic Controllers with Routes](https://laravel.com/docs/8.x/controllers#basic-controllers) <br>| + |
 | Route Parameters |:book: [Route Parameters](https://laravel.com/docs/8.x/routing#route-parameters) <br>|
 | Route Naming |:book: [Names Routes](https://laravel.com/docs/8.x/routing#named-routes) <br> :clapper: [Laravel: Why You Need Route Names?](https://www.youtube.com/watch?v=7lalb6HtR1c) <br>|
 | Route Groups |:book: [Route Groups](https://laravel.com/docs/8.x/routing#route-groups) <br> :clapper: [Laravel Route Grouping: Simple to Very Complex](https://www.youtube.com/watch?v=I6kyfSmPhn8) <br> :clapper: [More videos](videos/route-groups.md) |
