@@ -15,8 +15,8 @@ Create your very first simple Laravel project
 
 __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :capital_abcd: Course__ 
 
-| Topic | Learning Links |
-| ----- | ----- |
+| Topic | Learning Links | Check |
+| ----- | ----- | ----- |
 | **Routing and Controllers: Basics** | :clapper: [Laravel 8 Routing: Important Change You Need to Know](https://www.youtube.com/watch?v=MfE1tnMG6fE) |
 | Callback Functions and Route::view() |:book: [Basic Routing](https://laravel.com/docs/8.x/routing#basic-routing) <br>:book: [View Routes](https://laravel.com/docs/8.x/routing#view-routes) <br>|
 | Routing to a Single Controller Method |:book: [Basic Controllers with Routes](https://laravel.com/docs/8.x/controllers#basic-controllers) <br>|
