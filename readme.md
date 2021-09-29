@@ -67,8 +67,8 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | **Middleware** ||
 | Create Custom Middleware Class |:book: [Defining Middleware](https://laravel.com/docs/8.x/middleware#defining-middleware) <br>| + |
 | **Database Advanced** ||
-| Database Seeders and Factories |:book: [Database: Seeding](https://laravel.com/docs/8.x/seeding) <br>:book: [Defining Model Factories](https://laravel.com/docs/8.x/database-testing#defining-model-factories) <br> :clapper: [Laravel Factories: Generate and Re-use Fake Records](https://www.youtube.com/watch?v=MHBDUJ51Pqs) <br> :clapper: [More videos](videos/database-seeders-and-factories.md)|
-| Eloquent Query Scopes |:book: [Eloquent: Query Scopes](https://laravel.com/docs/8.x/eloquent#query-scopes) <br> :clapper: [Same Eloquent Where Condition? Refactor into Local Scopes](https://www.youtube.com/watch?v=90xGUIuZsHE) <br>|
+| Database Seeders and Factories |:book: [Database: Seeding](https://laravel.com/docs/8.x/seeding) <br>:book: [Defining Model Factories](https://laravel.com/docs/8.x/database-testing#defining-model-factories) <br> :clapper: [Laravel Factories: Generate and Re-use Fake Records](https://www.youtube.com/watch?v=MHBDUJ51Pqs) <br> :clapper: [More videos](videos/database-seeders-and-factories.md)| + |
+| Eloquent Query Scopes |:book: [Eloquent: Query Scopes](https://laravel.com/docs/8.x/eloquent#query-scopes) <br> :clapper: [Same Eloquent Where Condition? Refactor into Local Scopes](https://www.youtube.com/watch?v=90xGUIuZsHE) <br>| + |
 | Polymorphic relationships |:book: [Polymorphic Relationships](https://laravel.com/docs/8.x/eloquent-relationships#polymorphic-relationships) <br> :clapper: [Laravel.io Portal: Polymorphic Relations Example](https://www.youtube.com/watch?v=EjJaNGW7vAg) <br>|
 | Eloquent Accessors and Mutators |:book: [Accessors & Mutators](https://laravel.com/docs/8.x/eloquent-mutators#accessors-and-mutators) <br>|
 | Eloquent Collections |:book: [Eloquent Collections](https://laravel.com/docs/8.x/eloquent-collections) <br>:book: [General Laravel Collections](https://laravel.com/docs/8.x/collections) <br>|
