@@ -62,7 +62,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Topic | Learning Links | Check |
 | ----- | ----- | ----- |
 | **Routing Advanced** | :clapper: [Laravel: 8 Tips for Advanced Routing](https://www.youtube.com/watch?v=_BIhuX8owTo) <br> :clapper: [More videos](videos/routing-advanced.md) <br> | + |
-| Route Model Binding |:book: [Route Model Binding](https://laravel.com/docs/8.x/routing#route-model-binding) <br>:clapper: [Laravel Route Model Binding: All You Need To Know](https://www.youtube.com/watch?v=6dEfxGLgevM) <br> :clapper: [More videos](videos/route-model-binding.md)|
+| Route Model Binding |:book: [Route Model Binding](https://laravel.com/docs/8.x/routing#route-model-binding) <br>:clapper: [Laravel Route Model Binding: All You Need To Know](https://www.youtube.com/watch?v=6dEfxGLgevM) <br> :clapper: [More videos](videos/route-model-binding.md)| + |
 | Route Redirect |:book: [Redirect Routes](https://laravel.com/docs/8.x/routing#redirect-routes) <br>|
 | **Middleware** ||
 | Create Custom Middleware Class |:book: [Defining Middleware](https://laravel.com/docs/8.x/middleware#defining-middleware) <br>|
