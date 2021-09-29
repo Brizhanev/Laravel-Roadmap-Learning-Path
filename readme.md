@@ -65,7 +65,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Route Model Binding |:book: [Route Model Binding](https://laravel.com/docs/8.x/routing#route-model-binding) <br>:clapper: [Laravel Route Model Binding: All You Need To Know](https://www.youtube.com/watch?v=6dEfxGLgevM) <br> :clapper: [More videos](videos/route-model-binding.md)| + |
 | Route Redirect |:book: [Redirect Routes](https://laravel.com/docs/8.x/routing#redirect-routes) <br>| + |
 | **Middleware** ||
-| Create Custom Middleware Class |:book: [Defining Middleware](https://laravel.com/docs/8.x/middleware#defining-middleware) <br>|
+| Create Custom Middleware Class |:book: [Defining Middleware](https://laravel.com/docs/8.x/middleware#defining-middleware) <br>| + |
 | **Database Advanced** ||
 | Database Seeders and Factories |:book: [Database: Seeding](https://laravel.com/docs/8.x/seeding) <br>:book: [Defining Model Factories](https://laravel.com/docs/8.x/database-testing#defining-model-factories) <br> :clapper: [Laravel Factories: Generate and Re-use Fake Records](https://www.youtube.com/watch?v=MHBDUJ51Pqs) <br> :clapper: [More videos](videos/database-seeders-and-factories.md)|
 | Eloquent Query Scopes |:book: [Eloquent: Query Scopes](https://laravel.com/docs/8.x/eloquent#query-scopes) <br> :clapper: [Same Eloquent Where Condition? Refactor into Local Scopes](https://www.youtube.com/watch?v=90xGUIuZsHE) <br>|
