@@ -30,7 +30,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Topic | Learning Links | Mark |
 | ----- | ----- | ----- |
 | **Routing Extra Features** ||
-| Route Caching |:book: [Route Caching](https://laravel.com/docs/8.x/routing#route-caching) <br>|
+| Route Caching |:book: [Route Caching](https://laravel.com/docs/8.x/routing#route-caching) <br>| + |
 | Rate Limiting |:book: [Rate Limiting](https://laravel.com/docs/8.x/routing#rate-limiting) <br>:clapper: [Laravel: Create Public API with Cache and Rate Limits](https://www.youtube.com/watch?v=vrLcCxWlxOk) <br>|
 | Invokable controllers |:book: [Single Action Controllers](https://laravel.com/docs/8.x/controllers#single-action-controllers) <br>|
 | **Database/Eloquent Extra Features** ||
