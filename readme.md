@@ -27,8 +27,8 @@ Master all Laravel features with 3-5 years of practical experience
 
 __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :capital_abcd: Course__ 
 
-| Topic | Learning Links |
-| ----- | ----- |
+| Topic | Learning Links | Mark |
+| ----- | ----- | ----- |
 | **Routing Extra Features** ||
 | Route Caching |:book: [Route Caching](https://laravel.com/docs/8.x/routing#route-caching) <br>|
 | Rate Limiting |:book: [Rate Limiting](https://laravel.com/docs/8.x/routing#rate-limiting) <br>:clapper: [Laravel: Create Public API with Cache and Rate Limits](https://www.youtube.com/watch?v=vrLcCxWlxOk) <br>|
