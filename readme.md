@@ -35,7 +35,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Invokable controllers |:book: [Single Action Controllers](https://laravel.com/docs/8.x/controllers#single-action-controllers) <br>| + |
 | **Database/Eloquent Extra Features** ||
 | Model Observers |:book: [Eloquent Observers](https://laravel.com/docs/8.x/eloquent#observers) <br>:clapper: [Laravel Model: Check if Any Field Was Changed](https://www.youtube.com/watch?v=_xluet13xxE) <br>:clapper: [Eloquent Observers or Events Listeners? Which is Better?](https://www.youtube.com/watch?v=DvoaU6cQQHM) <br>| + |
-| Raw Database Queries |:book: [Query Builder: Raw Expressions](https://laravel.com/docs/8.x/queries#raw-expressions) <br>|
+| Raw Database Queries |:book: [Query Builder: Raw Expressions](https://laravel.com/docs/8.x/queries#raw-expressions) <br>| + |
 | All Eloquent Features |:book: [All About Eloquent](https://laravel.com/docs/8.x/eloquent) <br>:capital_abcd: [Eloquent: Expert Level](https://laraveldaily.teachable.com/p/laravel-eloquent-expert-level) <br>:page_facing_up: [20 Laravel Eloquent Tips and Tricks](https://laravel-news.com/eloquent-tips-tricks) <br> :clapper: [Laravel Collections: 5 Methods with Real Examples](https://www.youtube.com/watch?v=isAz2GduuA0) <br> [More videos](videos/all-eloquent-features.md) <br>|
 | **Various Extra Laravel Features** ||
 | Custom Blade Directives |:book: [Extending Blade](https://laravel.com/docs/8.x/blade#extending-blade) <br>|
