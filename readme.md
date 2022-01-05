@@ -44,7 +44,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Login with X: Laravel Socialite |:book: [Laravel Socialite](https://laravel.com/docs/8.x/socialite) <br>| + |
 | Creating Artisan Commands |:book: [Writing Artisan Commands](https://laravel.com/docs/8.x/artisan#writing-commands) <br>:clapper: [How to Create Artisan Commands in Laravel](https://www.youtube.com/watch?v=-r3WnYy7g48) <br>| + |
 | Task Scheduling |:book: [Task Scheduling](https://laravel.com/docs/8.x/scheduling) <br>:clapper: [Laravel Task Scheduling: Run Artisan Command Hourly](https://www.youtube.com/watch?v=r-KrsQ0dN80) <br>| + |
-| Caching |:book: [Cache](https://laravel.com/docs/8.x/cache) <br>:clapper: [Cache Eloquent Query Results to Load Pages Instantly](https://www.youtube.com/watch?v=JhKngeE0XJA) <br>|
+| Caching |:book: [Cache](https://laravel.com/docs/8.x/cache) <br>:clapper: [Cache Eloquent Query Results to Load Pages Instantly](https://www.youtube.com/watch?v=JhKngeE0XJA) <br>| + |
 | Real-time: Broadcasting, Echo and Pusher |:book: [Broadcasting](https://laravel.com/docs/8.x/broadcasting) <br>|
 | **Jobs and Queues** |:capital_abcd: [Queues in Laravel](https://laraveldaily.teachable.com/p/queues-in-laravel) <br>|
 | Queueable Classes and Jobs |:book: [Creating Jobs](https://laravel.com/docs/8.x/queues#creating-jobs) <br>:book: [Queueing Notifications](https://laravel.com/docs/8.x/notifications#queueing-notifications) <br>:book: [Queued Event Listeners](https://laravel.com/docs/8.x/events#queued-event-listeners) <br>:book: [Queueing Mail](https://laravel.com/docs/8.x/mail#queueing-mail) <br>:clapper: [Laravel Queues 101: Example with Sending Emails](https://www.youtube.com/watch?v=rVx8xKisbr8) <br>|
