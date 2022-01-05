@@ -41,7 +41,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Custom Blade Directives |:book: [Extending Blade](https://laravel.com/docs/8.x/blade#extending-blade) <br>| + |
 | Events and Listeners |:book: [Events and Listeners](https://laravel.com/docs/8.x/events) <br>:clapper: [Laravel: 3 Ways to Send a Welcome Email (Controller vs Observer vs Events)](https://www.youtube.com/watch?v=ZWzH6SOzjhI) <br>:clapper: [Laravel: Why Observers and Event Listeners are "Risky"](https://www.youtube.com/watch?v=A3bmLo77e5M) <br>| + |
 | Laravel HTTP Client and Guzzle |:book: [HTTP Client](https://laravel.com/docs/8.x/http-client) <br>:clapper: [Laravel and External APIs: Get Data with HTTP Client](https://www.youtube.com/watch?v=oEDDZsmMLc0) <br>| + |
-| Login with X: Laravel Socialite |:book: [Laravel Socialite](https://laravel.com/docs/8.x/socialite) <br>|
+| Login with X: Laravel Socialite |:book: [Laravel Socialite](https://laravel.com/docs/8.x/socialite) <br>| + |
 | Creating Artisan Commands |:book: [Writing Artisan Commands](https://laravel.com/docs/8.x/artisan#writing-commands) <br>:clapper: [How to Create Artisan Commands in Laravel](https://www.youtube.com/watch?v=-r3WnYy7g48) <br>|
 | Task Scheduling |:book: [Task Scheduling](https://laravel.com/docs/8.x/scheduling) <br>:clapper: [Laravel Task Scheduling: Run Artisan Command Hourly](https://www.youtube.com/watch?v=r-KrsQ0dN80) <br>|
 | Caching |:book: [Cache](https://laravel.com/docs/8.x/cache) <br>:clapper: [Cache Eloquent Query Results to Load Pages Instantly](https://www.youtube.com/watch?v=JhKngeE0XJA) <br>|
