@@ -43,7 +43,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Laravel HTTP Client and Guzzle |:book: [HTTP Client](https://laravel.com/docs/8.x/http-client) <br>:clapper: [Laravel and External APIs: Get Data with HTTP Client](https://www.youtube.com/watch?v=oEDDZsmMLc0) <br>| + |
 | Login with X: Laravel Socialite |:book: [Laravel Socialite](https://laravel.com/docs/8.x/socialite) <br>| + |
 | Creating Artisan Commands |:book: [Writing Artisan Commands](https://laravel.com/docs/8.x/artisan#writing-commands) <br>:clapper: [How to Create Artisan Commands in Laravel](https://www.youtube.com/watch?v=-r3WnYy7g48) <br>| + |
-| Task Scheduling |:book: [Task Scheduling](https://laravel.com/docs/8.x/scheduling) <br>:clapper: [Laravel Task Scheduling: Run Artisan Command Hourly](https://www.youtube.com/watch?v=r-KrsQ0dN80) <br>|
+| Task Scheduling |:book: [Task Scheduling](https://laravel.com/docs/8.x/scheduling) <br>:clapper: [Laravel Task Scheduling: Run Artisan Command Hourly](https://www.youtube.com/watch?v=r-KrsQ0dN80) <br>| + |
 | Caching |:book: [Cache](https://laravel.com/docs/8.x/cache) <br>:clapper: [Cache Eloquent Query Results to Load Pages Instantly](https://www.youtube.com/watch?v=JhKngeE0XJA) <br>|
 | Real-time: Broadcasting, Echo and Pusher |:book: [Broadcasting](https://laravel.com/docs/8.x/broadcasting) <br>|
 | **Jobs and Queues** |:capital_abcd: [Queues in Laravel](https://laraveldaily.teachable.com/p/queues-in-laravel) <br>|
