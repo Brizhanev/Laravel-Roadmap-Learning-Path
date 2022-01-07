@@ -50,7 +50,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Queueable Classes and Jobs |:book: [Creating Jobs](https://laravel.com/docs/8.x/queues#creating-jobs) <br>:book: [Queueing Notifications](https://laravel.com/docs/8.x/notifications#queueing-notifications) <br>:book: [Queued Event Listeners](https://laravel.com/docs/8.x/events#queued-event-listeners) <br>:book: [Queueing Mail](https://laravel.com/docs/8.x/mail#queueing-mail) <br>:clapper: [Laravel Queues 101: Example with Sending Emails](https://www.youtube.com/watch?v=rVx8xKisbr8) <br>| + |
 | Job Dispatching, Batching and Chaining |:book: [Dispatching Jobs](https://laravel.com/docs/8.x/queues#dispatching-jobs) <br>| + |
 | Processing Failed Jobs |:book: [Dealing with Failed Jobs](https://laravel.com/docs/8.x/queues#dealing-with-failed-jobs) <br>| + |
-| Configuring Queues: Drivers, Redis, Supervisor |:book: [Running the Queue Worker](https://laravel.com/docs/8.x/queues#running-the-queue-worker) <br>:book: [Configuring Supervisor](https://laravel.com/docs/8.x/queues#supervisor-configuration) <br>|
+| Configuring Queues: Drivers, Redis, Supervisor |:book: [Running the Queue Worker](https://laravel.com/docs/8.x/queues#running-the-queue-worker) <br>:book: [Configuring Supervisor](https://laravel.com/docs/8.x/queues#supervisor-configuration) <br>| + |
 | Laravel Horizon (optional, if you use Redis) |:book: [Laravel Horizon](https://laravel.com/docs/8.x/horizon) <br>|
 | **API Advanced** ||
 | Upload Files via API |:page_facing_up: [Laravel API: How to Upload File from Vue.js](https://blog.quickadminpanel.com/laravel-api-how-to-upload-file-from-vue-js/) <br>|
