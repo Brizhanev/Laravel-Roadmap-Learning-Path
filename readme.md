@@ -53,7 +53,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Configuring Queues: Drivers, Redis, Supervisor |:book: [Running the Queue Worker](https://laravel.com/docs/8.x/queues#running-the-queue-worker) <br>:book: [Configuring Supervisor](https://laravel.com/docs/8.x/queues#supervisor-configuration) <br>| + |
 | Laravel Horizon (optional, if you use Redis) |:book: [Laravel Horizon](https://laravel.com/docs/8.x/horizon) <br>| + |
 | **API Advanced** ||
-| Upload Files via API |:page_facing_up: [Laravel API: How to Upload File from Vue.js](https://blog.quickadminpanel.com/laravel-api-how-to-upload-file-from-vue-js/) <br>|
+| Upload Files via API |:page_facing_up: [Laravel API: How to Upload File from Vue.js](https://blog.quickadminpanel.com/laravel-api-how-to-upload-file-from-vue-js/) <br>| + |
 | Generate API Documentation |:page_facing_up: [Laravel API Documentation with OpenAPI/Swagger](https://blog.quickadminpanel.com/laravel-api-documentation-with-openapiswagger/) <br>:clapper: [Scribe: New Package for Laravel API Documentation](https://www.youtube.com/watch?v=PjwGI8c2IfA) <br>|
 | API Versioning |:page_facing_up: [Versioning your REST API with Laravel](https://codimth.com/blog/web/laravel/versioning-your-rest-api-laravel) <br>:clapper: [Versioning your API: from V1 to V2 and Beyond [video from my course]](https://laraveldaily.teachable.com/courses/how-to-create-laravel-api/lectures/17568998) <br>|
 | API with OAuth and Laravel Passport |:book: [Laravel Passport](https://laravel.com/docs/8.x/passport) <br> :clapper: [Laravel API Auth Demo: Passport, oAuth and Sanctum](https://www.youtube.com/watch?v=8myQdPL8I1s)|
