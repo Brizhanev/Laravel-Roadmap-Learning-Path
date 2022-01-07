@@ -51,7 +51,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Job Dispatching, Batching and Chaining |:book: [Dispatching Jobs](https://laravel.com/docs/8.x/queues#dispatching-jobs) <br>| + |
 | Processing Failed Jobs |:book: [Dealing with Failed Jobs](https://laravel.com/docs/8.x/queues#dealing-with-failed-jobs) <br>| + |
 | Configuring Queues: Drivers, Redis, Supervisor |:book: [Running the Queue Worker](https://laravel.com/docs/8.x/queues#running-the-queue-worker) <br>:book: [Configuring Supervisor](https://laravel.com/docs/8.x/queues#supervisor-configuration) <br>| + |
-| Laravel Horizon (optional, if you use Redis) |:book: [Laravel Horizon](https://laravel.com/docs/8.x/horizon) <br>|
+| Laravel Horizon (optional, if you use Redis) |:book: [Laravel Horizon](https://laravel.com/docs/8.x/horizon) <br>| + |
 | **API Advanced** ||
 | Upload Files via API |:page_facing_up: [Laravel API: How to Upload File from Vue.js](https://blog.quickadminpanel.com/laravel-api-how-to-upload-file-from-vue-js/) <br>|
 | Generate API Documentation |:page_facing_up: [Laravel API Documentation with OpenAPI/Swagger](https://blog.quickadminpanel.com/laravel-api-documentation-with-openapiswagger/) <br>:clapper: [Scribe: New Package for Laravel API Documentation](https://www.youtube.com/watch?v=PjwGI8c2IfA) <br>|
